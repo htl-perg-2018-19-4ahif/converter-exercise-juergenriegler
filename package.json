@@ -11,5 +11,9 @@
   "devDependencies": {
     "jasmine": "^3.2.0",
     "jasmine-spec-reporter": "^4.2.1"
+  },
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "convert-units": "^2.3.4"
   }
 }
